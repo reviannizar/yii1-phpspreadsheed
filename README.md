@@ -42,7 +42,9 @@ $writer->save('php://output');
 
 2. Untuk update phpspreadsheet download src [https://github.com/PHPOffice/PhpSpreadsheet] kemudian replace folder src dalam folder vendor/phpoffice/phpspreadsheet/src 
 
-<img src="img/folder.png" />
+<a href="https://raw.githubusercontent.com/reviannizar/yii1-phpspreadsheed/master/img/folder.PNG" target="_blank">
+<img src="https://raw.githubusercontent.com/reviannizar/yii1-phpspreadsheed/master/img/folder.PNG" />
+</a>
 
 ## Penggunaan
 
